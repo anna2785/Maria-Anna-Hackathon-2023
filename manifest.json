@@ -1,0 +1,13 @@
+{
+    "name": "CS Peer Tutor Schedule",
+    "version": "1.0.0",
+    "description": "Accessing SFU Peer Tutoring",
+    "manifest_version": 3,
+    "authors": "Maria Zia, Anna Siddiqi",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Peer Tutoring Schedule"
+    } 
+
+}
+
